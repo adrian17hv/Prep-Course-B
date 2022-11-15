@@ -1,7 +1,0 @@
-*Variable - en programacion una variable es invocada con la palabra clave var (let o const) y despues del var se le da un nombre o identificador, y dentro del mismo guarda (atribuye) un valor con el signo = para ser utilizada en otro momento.
-*Strings - para utilizar un string es necesario encerrar la cadena de texto/palabra/numero entre comillas simples o dobles.
-*Booleans - los valores booleanos funcionan con dos opciones, true o false, encendido o apagado, 0 o 1, positivo y negativo, etc... al igual que el codigo binario funciona bajo la logica de boole.
-*Undefined - undefined es una propiedad que el interprete nos devolvera cuando no declaramos una variable
-*Null - null es lo que el interprete nos devolvera cuando la variable es declarada pero no tiene ni un tipo ni un valor
-*Operadores - los operadores son los signos (+, -, *, / y %) que en matematica resuelven funciones. en programacion estos operadores pueden resolver funciones entre un operando y otro o atribuir un valor 
-=== vs == - la diferencia entre estos operadores comparativos es que al comparar los datos que estan a la derecha del operador con el de la izquierda, el == solo compara el valor y no el tipo de dato, mientras que el === compara ambos, el valor y tipo de dato. (el == no debe ser usado ya que es poco estricto.)
